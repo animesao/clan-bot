@@ -19,7 +19,7 @@ intents.members = True
 bot = commands.Bot(
     command_prefix='!',
     intents=intents,
-    test_guilds=[1377866241712066630]  # ID вашего сервера
+    test_guilds=[ID]  # ID вашего сервера
 )
 
 # Отключаем встроенную команду help
