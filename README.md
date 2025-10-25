@@ -32,8 +32,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/discord-clan-bot.git
-cd discord-clan-bot
+git clone https://github.com/yourusername/-clan-bot.git
+cd clan-bot
 ```
 
 2. Установите зависимости:
