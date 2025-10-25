@@ -1,90 +1,99 @@
-# Discord Clan Bot
+# 🎮 Discord Clan Bot
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/alfheimguide)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<div align="center">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <br>
+  <img src="https://img.shields.io/github/stars/animesao/clan-bot?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/animesao/clan-bot?style=social" alt="Forks">
+</div>
 
-A Discord bot for clan management, written in Python using the disnake library.
+<p align="center">
+  <strong>A powerful Discord bot for clan management, written in Python using the disnake library.</strong>
+  <br>
+  Manage your gaming clan with ease: applications, events, member control, and more!
+</p>
 
-## Table of Contents
+## 📋 Table of Contents
 - [English](#english)
 - [Русский](#русский)
 
 ## English
 
-### Features
+### ✨ Features
 
-- **Application System**
+- **📝 Application System**
   - Submit applications with age, experience, and motivation details
   - Attach screenshots
   - Review applications by administrators
   - Notifications for acceptance/rejection
 
-- **Event System**
+- **📅 Event System**
   - Create events with date and time
   - Join events
   - View active events
   - Cancel events
 
-- **Member Management**
+- **👥 Member Management**
   - View member profiles
   - Warning system
   - Kick members from the clan
   - Automatic activity checks
 
-- **Administrative Commands**
+- **⚙️ Administrative Commands**
   - Create announcements
   - Configure channels and roles
   - View settings
   - Clear messages
 
-### Installation
+### 🚀 Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/animesao/clan-bot.git
 cd clan-bot
 ```
 
-2. Install dependencies:
+2. **Install dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Configure in `main.py`:
+3. **Configure in `main.py`:**
 ```python
 TOKEN = "your_bot_token"
 ```
 
-4. Run the bot:
+4. **Run the bot:**
 ```bash
 python main.py
 ```
 
-### Setup
+### ⚙️ Setup
 
-1. Invite the bot to your server with necessary permissions
-2. Use `/setchannel` to configure channels:
+1. **Invite the bot to your server** with necessary permissions
+2. **Configure channels** using `/setchannel`:
    - `welcome` - welcome channel
    - `announcement` - announcement channel
    - `log` - log channel
 
-3. Use `/setrole` to configure roles:
+3. **Configure roles** using `/setrole`:
    - `leader` - clan leader role
    - `member` - clan member role
    - `applicant` - applicant role
    - `new_member` - new server member role
 
-### Commands
+### 💬 Commands
 
-#### General Commands
+#### 👤 General Commands
 - `/apply` - Submit application to join the clan
 - `/profile [member]` - View member's profile
 - `/events` - View active events
 - `/join [event_id]` - Join an event
 - `/leave [event_id]` - Leave an event
 
-#### Admin Commands
+#### 🛡️ Admin Commands
 - `/accept [member]` - Accept application
 - `/reject [member] [reason]` - Reject application
 - `/applications` - View application list
@@ -99,7 +108,7 @@ python main.py
 - `/settings` - View current settings
 - `/clear [amount]` - Clear messages in channel
 
-### License
+### 📄 License
 
 MIT
 
