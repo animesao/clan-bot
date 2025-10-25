@@ -4,9 +4,6 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-  <br>
-  <img src="https://img.shields.io/github/stars/animesao/clan-bot?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/animesao/clan-bot?style=social" alt="Forks">
 </div>
 
 <p align="center">
