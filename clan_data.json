@@ -1,0 +1,110 @@
+{
+    "members": {
+        "1189894356220530728": {
+            "joined_at": "2025-06-01T20:57:42.105294",
+            "role": "member",
+            "accepted_by": "1035507808378028053"
+        },
+        "1205671776995250210": {
+            "joined_at": "2025-05-31T17:55:34.082407",
+            "role": "member",
+            "accepted_by": "1035507808378028053"
+        },
+        "1007883383654850610": {
+            "joined_at": "2025-05-31T17:56:08.541501",
+            "role": "member",
+            "accepted_by": "1035507808378028053"
+        },
+        "1215543506173431869": {
+            "joined_at": "2025-05-31T17:58:29.641803",
+            "role": "member",
+            "accepted_by": "1035507808378028053"
+        },
+        "1035507808378028053": {
+            "joined_at": "2025-06-01T19:59:44.348758",
+            "role": "member",
+            "accepted_by": "1035507808378028053"
+        }
+    },
+    "applications": {},
+    "roles": {
+        "leader": 1377866241712066639,
+        "member": 1378018301472538734,
+        "applicant": 1378017759451152425,
+        "new_member": 1377866241712066631,
+        "officer": 1377866241712066634
+    },
+    "events": {},
+    "warnings": {},
+    "announcements": [],
+    "subclans": {},
+    "factions": {
+        "enabled": true,
+        "message_id": 1378397976774447115,
+        "channel_id": 1378267601637085265,
+        "factions": {
+            "долг": {
+                "name": "Долг",
+                "description": "",
+                "emoji": "<:892032090206527518:1378260266764206173>",
+                "role_id": 1378265542309449769,
+                "color": "#000000"
+            },
+            "свобода": {
+                "name": "Свобода",
+                "description": "",
+                "emoji": "<:892032090156171284:1378260270748795031>",
+                "role_id": 1378266251687755867,
+                "color": "#000000"
+            },
+            "наёмники": {
+                "name": "Наёмники",
+                "description": "",
+                "emoji": "<:892032090093264917:1378260263811154000>",
+                "role_id": 1378260559874625546,
+                "color": "#000000"
+            },
+            "завет": {
+                "name": "Завет",
+                "description": "",
+                "emoji": "<:892032090156175400:1378260268991123548>",
+                "role_id": 1378266740391149568,
+                "color": "#000000"
+            }
+        }
+    },
+    "notifications": {
+        "youtube": {},
+        "twitch": {}
+    },
+    "settings": {
+        "welcome_channel": 1378020242147770449,
+        "announcement_channel": 1377866242119041079,
+        "log_channel": 1378020418123993259,
+        "prefix": "!",
+        "auto_role": null,
+        "welcome_message": "Добро пожаловать на сервер!",
+        "inactivity_days": 30,
+        "max_warnings": 3,
+        "event_reminder_hours": 24,
+        "allowed_screenshot_domains": [],
+        "moderation_roles": [],
+        "admin_roles": [],
+        "custom_commands": {},
+        "auto_delete_messages": false,
+        "auto_delete_delay": 60,
+        "log_events": true,
+        "log_types": {
+            "member_join": true,
+            "member_leave": true,
+            "message_delete": true,
+            "message_edit": true,
+            "role_changes": true,
+            "channel_changes": true,
+            "server_changes": true
+        },
+        "apply_channels": [
+            1378057393900093511
+        ]
+    }
+}

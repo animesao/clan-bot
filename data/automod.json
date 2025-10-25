@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "block_invites": true,
+    "block_urls": false,
+    "allowed_channels": [],
+    "ignored_roles": []
+}

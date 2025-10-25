@@ -1,0 +1,51 @@
+{
+    "settings": {
+        "enabled": true,
+        "xp_per_message": 5,
+        "xp_per_voice_minute": 2,
+        "xp_cooldown": 20,
+        "voice_cooldown": 100,
+        "level_roles": {},
+        "rewards": {},
+        "announcements": {
+            "channel_id": 1377866242274365497,
+            "enabled": true
+        },
+        "leaderboard": {
+            "message_id": null,
+            "channel_id": null,
+            "update_interval": 300
+        }
+    },
+    "users": {
+        "1035507808378028053": {
+            "xp": 244,
+            "level": 2,
+            "total_messages": 15,
+            "voice_time": 0,
+            "last_voice_update": null
+        },
+        "872001333815820288": {
+            "xp": 20,
+            "level": 0,
+            "total_messages": 4,
+            "voice_time": 0,
+            "last_voice_update": null
+        },
+        "1189894356220530728": {
+            "xp": 30,
+            "level": 0,
+            "total_messages": 6,
+            "voice_time": 0,
+            "last_voice_update": null
+        },
+        "1205671776995250210": {
+            "xp": 5,
+            "level": 0,
+            "total_messages": 1,
+            "voice_time": 0,
+            "last_voice_update": null
+        }
+    },
+    "last_update": "2025-06-06T19:26:12.383035"
+}
